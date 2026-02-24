@@ -408,7 +408,7 @@ export default {
   'Script': 'Skript',
   'Payload types': 'Typer nyttelast',
   'Unk. payload': 'Ukj. nyttelast',
-  'Number of transaction paylods seen in the last hour': 'Antall transaksjoner med nyttelast den siste timen',
+  'Number of transaction payloads seen in the last hour': 'Antall transaksjoner med nyttelast den siste timen',
   'Number of inscription scripts seen in the last hour': 'Antall transaksjoner med inskripsjoner den siste timen',
   'Number of Kasplex (L2) payloads seen in the last hour': 'Antall transaksjoner med Kasplex (L2) nyttelaster den siste timen',
   'Number of Igra (L2) payloads seen in the last hour': 'Antall transaksjoner med Igra (L2) nyttelaster den siste timen',

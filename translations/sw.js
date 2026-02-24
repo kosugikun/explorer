@@ -408,7 +408,7 @@ export default {
   'Script': 'Hati',
   'Payload types': 'Aina za data za ziada',
   'Unk. payload': 'Data ya ziada isiyojulikana',
-  'Number of transaction paylods seen in the last hour': 'Idadi ya data za ziada za miamala zilizoonekana katika saa iliyopita',
+  'Number of transaction payloads seen in the last hour': 'Idadi ya data za ziada za miamala zilizoonekana katika saa iliyopita',
   'Number of inscription scripts seen in the last hour': 'Idadi ya hati za maandishi zilizoonekana katika saa iliyopita',
   'Number of Kasplex (L2) payloads seen in the last hour': 'Idadi ya data za ziada za Kasplex (L2) zilizoonekana katika saa iliyopita',
   'Number of Igra (L2) payloads seen in the last hour': 'Idadi ya data za ziada za Igra (L2) zilizoonekana katika saa iliyopita',

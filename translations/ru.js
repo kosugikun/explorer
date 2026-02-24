@@ -408,7 +408,7 @@ export default {
   'Script': 'Скрипт',
   'Payload types': 'Типы полезных нагрузок',
   'Unk. payload': 'Неизв. полезная нагрузка',
-  'Number of transaction paylods seen in the last hour': 'Количество транзакционных полезных нагрузок, замеченных за последний час',
+  'Number of transaction payloads seen in the last hour': 'Количество транзакционных полезных нагрузок, замеченных за последний час',
   'Number of inscription scripts seen in the last hour': 'Количество скриптов с надписями, замеченных за последний час',
   'Number of Kasplex (L2) payloads seen in the last hour': 'Количество полезных нагрузок Kasplex (L2), замеченных за последний час',
   'Number of Igra (L2) payloads seen in the last hour': 'Количество полезных нагрузок Igra (L2), замеченных за последний час',

@@ -408,7 +408,7 @@ export default {
   'Script': 'سكريبت',
   'Payload types': 'أنواع الحمولة',
   'Unk. payload': 'حمولة مجهولة',
-  'Number of transaction paylods seen in the last hour': 'عدد حمولات المعاملات التي شوهدت في الساعة الأخيرة',
+  'Number of transaction payloads seen in the last hour': 'عدد حمولات المعاملات التي شوهدت في الساعة الأخيرة',
   'Number of inscription scripts seen in the last hour': 'عدد سكريبتات النقش التي شوهدت في الساعة الأخيرة',
   'Number of Kasplex (L2) payloads seen in the last hour': 'عدد حمولات Kasplex (L2) التي شوهدت في الساعة الأخيرة',
   'Number of Igra (L2) payloads seen in the last hour': 'عدد حمولات Igra (L2) التي شوهدت في الساعة الأخيرة',

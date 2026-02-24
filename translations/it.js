@@ -408,7 +408,7 @@ export default {
   'Script': 'Script',
   'Payload types': 'Tipi di payload',
   'Unk. payload': 'Payload ignoto',
-  'Number of transaction paylods seen in the last hour': 'Numero di payload di transazioni visti nell\'ultima ora',
+  'Number of transaction payloads seen in the last hour': 'Numero di payload di transazioni visti nell\'ultima ora',
   'Number of inscription scripts seen in the last hour': 'Numero di script di iscrizioni visti nell\'ultima ora',
   'Number of Kasplex (L2) payloads seen in the last hour': 'Numero di payload Kasplex (L2) visti nell\'ultima ora',
   'Number of Igra (L2) payloads seen in the last hour': 'Numero di payload Igra (L2) visti nell\'ultima ora',

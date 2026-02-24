@@ -408,7 +408,7 @@ export default {
   'Script': '脚本',
   'Payload types': '有效负载类型',
   'Unk. payload': '未知有效负载',
-  'Number of transaction paylods seen in the last hour': '过去一小时内看到的交易有效负载数量',
+  'Number of transaction payloads seen in the last hour': '过去一小时内看到的交易有效负载数量',
   'Number of inscription scripts seen in the last hour': '过去一小时内看到的铭文脚本数量',
   'Number of Kasplex (L2) payloads seen in the last hour': '过去一小时内看到的Kasplex (L2)有效负载数量',
   'Number of Igra (L2) payloads seen in the last hour': '过去一小时内看到的Igra (L2)有效负载数量',
