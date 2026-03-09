@@ -112,6 +112,7 @@ export default {
   tokens: '토큰',
   Balance: '잔액',
   'Balance history': '잔액 기록',
+  'Rank by largest address': '최대 주소 순위',
   First: '처음',
   Last: '마지막',
   accepted: '수락됨',
@@ -172,7 +173,7 @@ export default {
   'Regular transaction outputs per second': '초당 일반 트랜잭션 출력',
 
   'Unique-TPS': '고유-TPS',
-  'Unique transactions per second': '초당 고유 트랜잭션',
+  'Unique transactions per second (accepted and rejected)': '초당 고유 트랜잭션 (수락됨 및 거부됨)',
   'Unique regular transactions per second': '초당 고유 일반 트랜잭션',
 
   'Unique-In/s': '고유-입력/s',

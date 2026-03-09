@@ -112,6 +112,7 @@ export default {
   tokens: 'token',
   Balance: 'Saldo',
   'Balance history': 'Beholdningshistorikk',
+  'Rank by largest address': 'Rang etter størst adresse',
   First: 'Første',
   Last: 'Siste',
   accepted: 'aksepterte',
@@ -172,7 +173,7 @@ export default {
   'Regular transaction outputs per second': 'Regulære transaksjonsutganger per sekund',
 
   'Unique-TPS': 'Unike-TPS',
-  'Unique transactions per second': 'Unike transaksjoner per sekund',
+  'Unique transactions per second (accepted and rejected)': 'Unike transaksjoner per sekund (aksepterte og avviste)',
   'Unique regular transactions per second': 'Unike regulære transaksjoner per sekund',
 
   'Unique-In/s': 'Unike-Inn/s',

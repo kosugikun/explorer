@@ -112,6 +112,7 @@ export default {
   tokens: 'Token',
   Balance: 'Guthaben',
   'Balance history': 'Guthabenverlauf',
+  'Rank by largest address': 'Rang nach größter Adresse',
   First: 'Erster',
   Last: 'Letzter',
   accepted: 'akzeptiert',
@@ -172,7 +173,7 @@ export default {
   'Regular transaction outputs per second': 'Reguläre Transaktionsausgänge pro Sekunde',
 
   'Unique-TPS': 'Unikale-TPS',
-  'Unique transactions per second': 'Unikale Transaktionen pro Sekunde',
+  'Unique transactions per second (accepted and rejected)': 'Unikale Transaktionen pro Sekunde (akzeptierte und abgelehnte)',
   'Unique regular transactions per second': 'Unikale reguläre Transaktionen pro Sekunde',
 
   'Unique-In/s': 'Unikal-Ein/s',

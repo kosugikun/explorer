@@ -112,6 +112,7 @@ export default {
   tokens: 'رموز',
   Balance: 'الرصيد',
   'Balance history': 'سجل الرصيد',
+  'Rank by largest address': 'الترتيب حسب أكبر عنوان',
   First: 'الأول',
   Last: 'الأخير',
   accepted: 'مقبولة',
@@ -172,7 +173,7 @@ export default {
   'Regular transaction outputs per second': 'مخرجات المعاملات العادية في الثانية',
 
   'Unique-TPS': 'Unique-TPS',
-  'Unique transactions per second': 'المعاملات الفريدة في الثانية',
+  'Unique transactions per second (accepted and rejected)': 'المعاملات الفريدة في الثانية (المقبولة والمرفوضة)',
   'Unique regular transactions per second': 'المعاملات العادية الفريدة في الثانية',
 
   'Unique-In/s': 'Unique-In/s',

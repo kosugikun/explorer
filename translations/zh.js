@@ -112,6 +112,7 @@ export default {
   tokens: '代币',
   Balance: '余额',
   'Balance history': '余额历史',
+  'Rank by largest address': '按最大地址排名',
   First: '首次',
   Last: '末次',
   accepted: '已接受',
@@ -172,7 +173,7 @@ export default {
   'Regular transaction outputs per second': '每秒常规交易输出数',
 
   'Unique-TPS': '唯一-TPS',
-  'Unique transactions per second': '每秒唯一交易数',
+  'Unique transactions per second (accepted and rejected)': '每秒唯一交易数（已接受和已拒绝）',
   'Unique regular transactions per second': '每秒唯一常规交易数',
 
   'Unique-In/s': '唯一-输入/秒',

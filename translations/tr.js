@@ -112,6 +112,7 @@ export default {
   tokens: 'tokenlar',
   Balance: 'Bakiye',
   'Balance history': 'Bakiye geçmişi',
+  'Rank by largest address': 'En büyük adrese göre sıralama',
   First: 'İlk',
   Last: 'Son',
   accepted: 'kabul edildi',
@@ -172,7 +173,7 @@ export default {
   'Regular transaction outputs per second': 'Saniyede normal işlem çıkışı',
 
   'Unique-TPS': 'Benzersiz-TPS',
-  'Unique transactions per second': 'Saniyede benzersiz işlem',
+  'Unique transactions per second (accepted and rejected)': 'Saniyede benzersiz işlem (kabul edilmiş ve reddedilmiş)',
   'Unique regular transactions per second': 'Saniyede benzersiz normal işlem',
 
   'Unique-In/s': 'Bnzr-Gir./s',

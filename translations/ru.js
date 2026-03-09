@@ -112,6 +112,7 @@ export default {
   tokens: 'токены',
   Balance: 'Баланс',
   'Balance history': 'История баланса',
+  'Rank by largest address': 'Рейтинг по наибольшему адресу',
   First: 'Первый',
   Last: 'Последний',
   accepted: 'принятые',
@@ -172,7 +173,7 @@ export default {
   'Regular transaction outputs per second': 'Выходы обычных транзакций в секунду',
 
   'Unique-TPS': 'Uniq-TPS',
-  'Unique transactions per second': 'Уникальные транзакции в секунду',
+  'Unique transactions per second (accepted and rejected)': 'Уникальные транзакции в секунду (принятые и отклонённые)',
   'Unique regular transactions per second': 'Уникальные обычные транзакции в секунду',
 
   'Unique-In/s': 'Uniq-Вх/с',

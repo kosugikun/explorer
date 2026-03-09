@@ -112,6 +112,7 @@ export default {
   tokens: 'tokeni',
   Balance: 'Salio',
   'Balance history': 'Historia ya salio',
+  'Rank by largest address': 'Cheo kwa anwani kubwa zaidi',
   First: 'Kwanza',
   Last: 'Mwisho',
   accepted: 'imekubaliwa',
@@ -172,7 +173,7 @@ export default {
   'Regular transaction outputs per second': 'Matokeo ya miamala ya kawaida kwa sekunde',
 
   'Unique-TPS': 'TPS Kipekee',
-  'Unique transactions per second': 'Miamala ya kipekee kwa sekunde',
+  'Unique transactions per second (accepted and rejected)': 'Miamala ya kipekee kwa sekunde (zilizokubaliwa na kukataliwa)',
   'Unique regular transactions per second': 'Miamala ya kawaida ya kipekee kwa sekunde',
 
   'Unique-In/s': 'Ingizo/s Kipekee',

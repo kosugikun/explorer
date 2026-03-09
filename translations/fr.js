@@ -112,6 +112,7 @@ export default {
   tokens: 'tokens',
   Balance: 'Solde',
   'Balance history': 'Historique du solde',
+  'Rank by largest address': 'Rang par plus grande adresse',
   First: 'Premier',
   Last: 'Dernier',
   accepted: 'acceptée',
@@ -172,7 +173,7 @@ export default {
   'Regular transaction outputs per second': 'Sorties de transactions régulières par seconde',
 
   'Unique-TPS': 'Unique-TPS',
-  'Unique transactions per second': 'Transactions uniques par seconde',
+  'Unique transactions per second (accepted and rejected)': 'Transactions uniques par seconde (acceptées et rejetées)',
   'Unique regular transactions per second': 'Transactions régulières uniques par seconde',
 
   'Unique-In/s': 'Uniq-Ent./s',
