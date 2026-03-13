@@ -28,7 +28,7 @@ export default {
   'Show KNS labels': 'Tampilke label KNS',
   'Show holiday snow': 'Tampilke salju riyaya',
 
-  'Navigate To': 'Menyang menyang',
+  'Navigate To': 'Menyang Pundhi',
 
   Health: 'Kesehatan',
   'Healthy and synced with Kaspa': 'Sehat lan sinkron karo Kaspa',
